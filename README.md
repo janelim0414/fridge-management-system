@@ -40,6 +40,7 @@ To test the app, fork/clone the repository and do the following:
     - exp
     - bought
     - owner (foreign key, referring to users email)
+- Get Firebase API key (put in .env) and OpenAI API key
 - Edit the db credentials in api/queries.js (pool constant)
 - npm install in api and client to create node_modules
 - npm start in client & node index.js in api to start running
