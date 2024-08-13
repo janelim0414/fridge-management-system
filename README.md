@@ -10,7 +10,7 @@ Whether you’re cooking for one or feeding a family, this app helps you create 
 The app has a three-tier architecture, using React for frontend, Node and Express for backend, and Postgres for database. \
 TailwindCSS was used for styling.
 
-The app's features are the following:\
+The app's features are the following:
 1. 'Sign in with Google' with Firebase, for convenience and data security
    - Simplified login & sign-up experience
    - Protect ingredients data from other users (POST request used for retrieving ingredients data to prevent viewing other users' ingredients by manipulating parameters)
@@ -23,13 +23,13 @@ The app's features are the following:\
    - Send current ingredients list to ChatGPT using OpenAI API to generate recipes
    - Prioritizes ingredients that need to be consumed first when generating recipes
   
-Features coming soon:\
+Features coming soon:
 1. Editing ingredients
 2. Saving favorite recipes
 
 ## To test
 The app is not yet deployed, but it may be run locally to test the implemented features. \
-To test the app, fork/clone the repository and do the following:\
+To test the app, fork/clone the repository and do the following:
 - Create postgres database locally with following tables
   - users table
     - email (primary)
