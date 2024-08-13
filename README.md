@@ -40,7 +40,7 @@ To test the app, fork/clone the repository and do the following:
     - exp
     - bought
     - owner (foreign key, referring to users email)
-- Edit the dv credentials in api/queries.js (pool constant)
+- Edit the db credentials in api/queries.js (pool constant)
 - npm install in api and client to create node_modules
 - npm start in client & node index.js in api to start running
 
