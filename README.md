@@ -4,6 +4,7 @@ Streamline your meal planning with our kitchen management app.
 
 This app helps users effectively manage their kitchen by keeping an inventory of pantry items, ordering them by their expiration dates, and suggesting AI-generated recipes based on what's in the kitchen, as a solution to minimize food waste and meal prep time. \
 Whether you’re cooking for one or feeding a family, this app helps you create delicious meals using what’s already in your kitchen.
+
 ![Screenshot 2024-08-13 at 5 50 56 PM](https://github.com/user-attachments/assets/3b37e09a-2b92-455b-b52c-9a7e156965c1)
 
 ![Screenshot 2024-08-13 at 5 51 13 PM](https://github.com/user-attachments/assets/1901bd59-382a-4cb0-9926-92800da0788e)
